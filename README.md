@@ -39,19 +39,19 @@
 
 > Navigate back to your SpringBoot folder for this task
 
-#### 2.1 Create an endpoint that returns a hello message to the user.
+#### 3.1 Create an endpoint that returns a hello message to the user.
 
 - **Method Type:** GET
 - **Input:** None
 - **Returns:** Hello message
 
-#### 2.2 Create an endpoint that returns the specified user's information using their username.
+#### 3.2 Create an endpoint that returns the specified user's information using their username.
 
 - **Method Type:** GET
 - **Request Param:** user_name (String)
 - **Returns:** User information (JSON)
 
-#### 2.3 Create an endpoint that adds a user to MySQL database.
+#### 3.3 Create an endpoint that adds a user to MySQL database.
 
 - **Method Type:** POST
 - **Input:** User Information (JSON)
