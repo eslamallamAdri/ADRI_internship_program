@@ -57,7 +57,20 @@
 - **Input:** User Information (JSON)
 - **Returns:** User Information (JSON)
 
-## Task 4:
+## Task 4: Theory Questions
+
+Add a **README.md** file like this one [Example_README.md](Example_README.md) to your repository and put your answers in it.
+> Please answer these questions in your own way
+
+#### Q1. In your own words, what is an API?
+
+#### Q2. What's the difference between SQL and NoSQL databases?
+
+#### Q3. What is Git and what is it used for?
+
+#### Q4. What constitutes clean code?
+
+## Submission:
 
 Submit a link to your Github repository to this [Google form](https://forms.gle/WVPcZrL6syk3ty7V7)
 
