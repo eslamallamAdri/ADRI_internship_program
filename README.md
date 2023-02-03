@@ -33,6 +33,8 @@
 2. Open the folder in a terminal.
 3. type the command `docker compose up -d` in your terminal to create your container.
 
+> This will create a Msql database called **adri** with username: **intern** and password: **intern123**
+
 ## Task 3: Your first SpringBoot application
 
 > Navigate back to your SpringBoot folder for this task
