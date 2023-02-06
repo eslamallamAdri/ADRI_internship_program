@@ -20,8 +20,15 @@
 
 **Dependencies:**
 
+> If you need to add any dependecies later on: 
+> 1. Go to [MVN Repository](https://mvnrepository.com/). 
+> 2. Search for the dependency that you need.
+> 3. Select **Gradle** from the package manager selector.
+> 4. Copy paste the import text into your **application.properties** file. 
+
 - Spring Web
 - Spring Data JPA
+- MySQL Driver
 
 ## Task 2:
 
